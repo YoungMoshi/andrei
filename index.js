@@ -7,7 +7,7 @@ var kphh = 0;
 var avbc = 0;
 var lstupgrprice = 0;
 
-const token = '1713656075913fNLtFED4wGCHwDUUmhxTrm2z0ZB2Mq1MI9ZXUdom1xQtWR15O7IMKslusGtaWEUP773966155';
+const token = 'TOKEN_TYT';
 
 async function claimReq() {
     const url = 'https://api.hamsterkombat.io/clicker/tap';
